@@ -1,0 +1,14 @@
+@import './helpers/_colors';
+@import './helpers/_variables';
+@import './layout/_normalize';
+@import './layout/_reset';
+@import './helpers/_animations';
+// @import './layout/_layout';
+// @import './components/_title';
+// @import './components/_billboard';
+// @import './components/_contacts';
+// @import './components/_spinner';
+
+body {
+    background: red;
+}
